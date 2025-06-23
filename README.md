@@ -1,0 +1,1 @@
+Desafio de codigo da plataforma Dio do curso de HTML. Consiste em usarmos o conhecimento adquirido na aula de numero 3, assim explicando o que entendemos e passando para a estrutura de um site HTML como se fosse um blog.
